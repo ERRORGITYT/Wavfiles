@@ -17,12 +17,15 @@ Wavfiles is a comprehensive GitHub repository dedicated to hosting high-quality 
 
 ## 🛠️ Available Tools
 
-### MP3 to WAV Converter
+### FFMPEG
 Convert your MP3 audio files to WAV format with ease. This tool ensures you maintain audio quality during conversion.
 
 ### WAV File Repository
 Browse through our extensive collection of WAV files organized by category and quality.
-
+* check on the [Wavfiles.md](https://github.com/ERRORGITYT/Wavfiles/blob/main/Wavfiles.md) for more information
+### WAV compressor
+Used for compress wav
+* if the WAV file is 30MB and github upload is only upload wav file if it's under 25MB wav file
 ## 📥 How to Download
 
 ### Method 1: Using GitHub UI
