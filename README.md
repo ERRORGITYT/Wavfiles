@@ -74,8 +74,8 @@ We welcome contributions! To add new WAV files to the repository:
 
 **Need help?** Have questions about downloading or using the files?
 
-📺 **YouTube**: [@ERRORwhately](https://www.youtube.com/@ERRORwhately) - Subscribe for tutorials and updates!
-
+* [![YouTube](https://img.shields.io/badge/YouTube-%40ERRORwhately-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ERRORwhately) - Subscribe for tutorials and updates!
+* [![GitHub](https://img.shields.io/badge/Github-ERRORGITYT-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ERRORGITYT) - if you wanna message me if there's a problem on the wav file
 ## 📄 License
 
 This repository contains audio files available for download and use. Please ensure you have the appropriate rights to use files before downloading.
@@ -90,7 +90,7 @@ If you find this repository helpful, please consider:
 
 ---
 
-**Made with ❤️ by [@ERRORwhately](https://github.com/ERRORGITYT)**
+**Made with ❤️ by @ERRORwhately**
 
 **Last Updated**: 2026-04-22
 
