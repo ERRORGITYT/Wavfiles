@@ -1,7 +1,7 @@
 # This is credit for wav files
 I have to credit wav file without getting copyright or anything like that,
-These file were converted on the MP3 to WAV converter
-You can check this website right here: **https://cloudconvert.com/mp3-to-wav**
+These file were converted on FFmpeg
+* also please read the credit
 # Minesweeper Plus
 Link:https://downloads.khinsider.com/game-soundtracks/album/minesweeper-plus-2025
 01. Title Screen (Music For a Small Project I'm Working On.).wav = Composed by Jorel Simpson
