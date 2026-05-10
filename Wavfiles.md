@@ -15,3 +15,7 @@ Link:https://downloads.khinsider.com/game-soundtracks/album/minesweeper-plus-202
 09. Mines Ahoy!.wav = Composed by Jorel Simpson
 10. Stage Clear 3.wav = Composed by Jorel Simpson
 11. Open Ocean - Dead Sea.wav = Composed by Jorel Simpson
+12. Für Elise.wav = Composed by Jorel Simpson
+13. Stage Clear 4.wav = Composed by Jorel Simpson
+14. The Devil's Triangle.wav = Composed by Jorel Simpson
+15. Introducing Final Boss 9.wav = Composed by Jorel Simpson
