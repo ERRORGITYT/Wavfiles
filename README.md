@@ -76,9 +76,16 @@ We welcome contributions! To add new WAV files to the repository:
 
 * [![YouTube](https://img.shields.io/badge/YouTube-%40ERRORwhately-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ERRORwhately) Subscribe for tutorials and updates!
 * [![GitHub](https://img.shields.io/badge/Github-ERRORGITYT-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ERRORGITYT) if you wanna message me if there's a problem on the wav file
-## 📄 License
+## ⚖️ License
 
-This repository contains audio files available for download and use. Please ensure you have the appropriate rights to use files before downloading.
+This repository is licensed under the **WAV ASSET CREATIVE LICENSE**.
+
+* **Usage:** Free for use in videos, games, and multimedia projects.
+* **Prohibited:** You may NOT resell or redistribute these raw files.
+* **Copyright:** All rights belong to **ERRORwhately**.
+
+* For the full legal details and permissions
+* please refer to the [![License](https://img.shields.io/badge/License-WAV_ASSET_CREATIVE-orange?style=for-the-badge)](https://github.com/ERRORGITYT/Wavfiles/blob/main/LICENSE) file.
 
 ## ⭐ Don't Forget!
 
