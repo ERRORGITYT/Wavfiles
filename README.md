@@ -85,7 +85,7 @@ This repository is licensed under the **WAV ASSET CREATIVE LICENSE**.
 * **Copyright:** All rights belong to **ERRORwhately**.
 
 * For the full legal details and permissions
-* please refer to the [![License](https://img.shields.io/badge/License-WAV_ASSET_CREATIVE-orange?style=for-the-badge)](https://github.com/ERRORGITYT/Wavfiles/blob/main/LICENSE) file.
+* please refer to the [![License](https://img.shields.io/badge/LICENSE-WAV_ASSET_CREATIVE-007acc?style=for-the-badge&logo=creative-commons&logoColor=white)](./LICENSE) file.
 
 ## ⭐ Don't Forget!
 
