@@ -1,6 +1,6 @@
                                WAV ASSET CREATIVE LICENSE       
-                                     VERSION 1.1
-                                EFFECTIVE: MAY 12, 2026
+                                     VERSION 1.2
+                                EFFECTIVE: MAY 15, 2026
 
 --------------------------------------------------------------------------------
 COPYRIGHT (C) 2026 ERRORWHATELY. ALL RIGHTS RESERVED.
@@ -23,6 +23,15 @@ Official GitHub Repository:github.com/ERRORGITYT/Wavfiles
     Assets in combination with other materials.
 1.6 "Commercial Use" means any use intended for or directed toward commercial 
     advantage or private financial gain.
+1.7 "Unauthorized Access" means any access, download, or use of the Assets 
+    that violates the terms of this License or circumvents security measures 
+    or authentication protocols.
+1.8 "Sublicense" means any agreement granting third parties rights to use 
+    the Assets or Derivative Works, whether for compensation or otherwise.
+1.9 "End-User License Agreement (EULA)" refers to any license terms between 
+    Licensee and end-users of products incorporating the Assets.
+1.10 "Audit Period" means any calendar quarter during which Licensor exercises 
+     audit rights under Article V of this License.
 
 ---
 
@@ -44,6 +53,15 @@ license to exercise the following rights:
 2.4 PERSONAL & EDUCATIONAL USE: The right to use Assets for non-commercial 
     personal projects, educational purposes, and research within accredited 
     institutions.
+2.5 ARCHIVAL RIGHTS: The right to maintain archives of the Assets for 
+    backup, preservation, and disaster recovery purposes, provided such 
+    archives are not publicly distributed or monetized.
+2.6 INTEGRATION RIGHTS: The right to integrate the Assets into software 
+    applications, plugins, and extensions for internal or customer use, 
+    provided proper attribution is maintained.
+2.7 MODIFICATION FOR TECHNICAL COMPATIBILITY: The right to modify Assets 
+    for technical compatibility with various platforms, formats, or devices, 
+    without altering the creative integrity or ownership of the underlying work.
 
 ---
 
@@ -56,12 +74,16 @@ license to exercise the following rights:
         whether modified or unmodified;
     (c) Offering these Assets as part of a commercial asset collection 
         without explicit written consent from the Licensor.
+    (d) Operating a service that substitutes for or competes with the 
+        original repository or platform.
 
 3.2 NO UNAUTHORIZED AUTOMATED SCRAPING: Use of artificial intelligence, 
     machine learning algorithms, web scraping bots, or automated systems 
     to extract, duplicate, or train generative models using these Assets 
     is strictly prohibited without a prior Tier-3 Written Waiver from 
     the Licensor.
+    (a) This includes but is not limited to: Large Language Models (LLMs), 
+        neural networks, voice synthesis training, or AI model generation.
 
 3.3 INTELLECTUAL PROPERTY INTEGRITY: Licensee shall:
     (a) Not misrepresent, obscure, or falsify the origin or authorship 
@@ -70,12 +92,16 @@ license to exercise the following rights:
         or copyright notices present in the Assets;
     (c) Maintain proper attribution to ERRORwhately in accordance with 
         Article VIII of this License.
+    (d) Not claim, imply, or represent that the Assets are original creations 
+        of the Licensee.
 
 3.4 PROHIBITED DISTRIBUTION CHANNELS: Licensee may not distribute works 
     containing the Assets through commercial marketplaces including, but 
     not limited to: Unity Asset Store, Unreal Marketplace, itch.io asset 
     store, Gumroad, or any similar commercial distribution platform 
     without explicit prior written authorization.
+    (a) This restriction applies to direct sales, marketplace listings, 
+        bundle offerings, and affiliate distribution arrangements.
 
 ---
 
@@ -89,6 +115,8 @@ license to exercise the following rights:
         Time-stretching, and Pitch-shifting;
     (c) CONTEXTUAL INTEGRATION: Layering, Blending, and Remixing with 
         original content created by the Licensee.
+    (d) FORMAT CONVERSION: Converting between supported audio formats 
+        for technical compatibility purposes.
 
 4.2 OWNERSHIP OF DERIVATIVES: All derivative works remain subject to the 
     original copyright and intellectual property rights of ERRORwhately. 
@@ -99,10 +127,17 @@ license to exercise the following rights:
         independent copyright over the modified Assets;
     (c) The original copyright notice must be retained and visible in 
         all derivative works and related documentation.
+    (d) Any commercial value derived from the Derivative Work shall be 
+        subject to profit-sharing or licensing fee arrangements as determined 
+        by Licensor.
 
 4.3 DERIVATIVE WORK RESTRICTIONS: Licensee shall not license, sublicense, 
     or transfer any rights to Derivative Works to third parties without 
     explicit written consent from the Licensor.
+    (a) Licensee may not create "template" works or "sample packs" using 
+        the Assets for resale or redistribution.
+    (b) Licensee may not offer Derivative Works as services to other parties 
+        without separate licensing agreements with Licensor.
 
 ---
 
@@ -115,13 +150,26 @@ license to exercise the following rights:
         the Assets;
     (c) Commercial terms and financial metrics associated with such Deployments;
     (d) Compliance verification with all terms outlined in this License.
+    (e) Number of end-users, downloads, or distribution channels for 
+        projects utilizing the Assets.
 
 5.2 INSPECTION RIGHTS: Licensor may conduct periodic compliance reviews and 
     inspections to ensure adherence to this License. Licensee agrees to 
     provide necessary documentation and access within 30 days of request.
+    (a) Licensor may request access to source code, project files, or metadata 
+        to verify compliance with licensing terms.
+    (b) Audits may be conducted no more than once per calendar year, unless 
+        Licensor has reasonable suspicion of material breach.
 
 5.3 DOCUMENTATION: Licensee shall maintain accurate records of all Deployments 
     utilizing the Assets for a minimum period of three (3) years.
+    (a) Records shall include: deployment dates, distribution channels, 
+        revenue figures, end-user metrics, and modification logs.
+    (b) Records must be provided in digital format within 15 days of request.
+
+5.4 AUDIT COSTS: If an audit reveals material non-compliance (exceeding 10% 
+    discrepancy), Licensee shall reimburse reasonable audit costs incurred 
+    by Licensor. If no material non-compliance is found, Licensor bears audit costs.
 
 ---
 
@@ -137,12 +185,15 @@ license to exercise the following rights:
     (d) Distribution through prohibited commercial marketplaces without 
         authorization;
     (e) Misrepresentation of Asset origin or authorship.
+    (f) Failure to provide audit documentation within required timeframes.
+    (g) Operating a competing service using the Assets.
 
 6.2 REMEDIES: Upon discovery of breach, Licensor may:
     (a) Provide written notice allowing Licensee a cure period of 14 days 
         to remedy the violation;
     (b) Demand immediate cessation of all unauthorized activities;
     (c) Require certification of compliance with this License.
+    (d) Seek damages or injunctive relief for ongoing violations.
 
 6.3 TERMINATION: If Licensee fails to cure a material breach within the 
     specified timeframe, Licensor may terminate this License immediately 
@@ -151,9 +202,15 @@ license to exercise the following rights:
     (b) Cease distribution of any works containing the Assets;
     (c) Provide written certification of compliance within 30 days;
     (d) Remain liable for any ongoing use discovered after termination.
+    (e) Maintain backup copies for legal evidence purposes only, if required 
+        by law or legal proceedings.
 
-6.4 SURVIVAL: Articles VI, VII, VIII, and IX shall survive termination 
+6.4 SURVIVAL: Articles VI, VII, VIII, IX, and X shall survive termination 
     of this License.
+
+6.5 POST-TERMINATION OBLIGATIONS: After termination, Licensee remains bound 
+    by confidentiality provisions, audit obligations, and liability limitations 
+    for a period of five (5) years.
 
 ---
 
@@ -163,14 +220,23 @@ license to exercise the following rights:
     warranty of any kind, express or implied, including but not limited to 
     warranties of merchantability, fitness for a particular purpose, or 
     non-infringement.
+    (a) Licensor does not warrant that Assets are free from defects, errors, 
+        or will meet Licensee's specific requirements.
 
 7.2 LICENSOR LIABILITY LIMITATION: In no event shall Licensor be liable for 
     any indirect, incidental, consequential, or punitive damages resulting 
     from the use or inability to use the Assets, even if advised of the 
     possibility of such damages.
+    (a) This includes but is not limited to: lost profits, revenue loss, 
+        data loss, business interruption, or reputational harm.
 
 7.3 MAXIMUM LIABILITY: Licensor's total liability under this License shall 
     not exceed the amount paid by Licensee to Licensor, if any.
+    (a) If Licensee has paid no fees, Licensor's maximum liability is $0 (zero).
+
+7.4 DISCLAIMER OF THIRD-PARTY CLAIMS: Licensor shall not be liable for any 
+    third-party claims, suits, or legal action arising from Licensee's use, 
+    modification, or distribution of the Assets.
 
 ---
 
@@ -182,13 +248,25 @@ license to exercise the following rights:
     (b) In streaming platforms: Attribution in description or metadata;
     (c) In commercial works: Attribution in end credits or appropriate 
         documentation.
+    (d) On websites/applications: Attribution in footer, credits section, 
+        or metadata tags.
 
 8.2 ATTRIBUTION FORMAT: Attribution shall be clearly legible and 
     substantially visible, not diminished or obscured in any way.
+    (a) Attribution must use legible font size (minimum 8pt for web, clearly 
+        readable on all devices).
+    (b) Attribution must not be hidden behind menus, toggles, or require 
+        additional navigation to view.
 
 8.3 ATTRIBUTION WAIVER: Licensee may request a written waiver of attribution 
     requirements for non-commercial or educational projects by contacting 
     the Licensor.
+    (a) Waivers must be explicitly granted in writing via GitHub Issue or 
+        official communication channel.
+
+8.4 ATTRIBUTION LINK: When technically feasible, attribution should include 
+    a hyperlink to the official repository (github.com/ERRORGITYT/Wavfiles) 
+    or Licensor's social media channels.
 
 ---
 
@@ -199,26 +277,37 @@ license to exercise the following rights:
     provision shall be reformed only to the extent necessary to make it 
     enforceable and valid. All other provisions shall remain in full force 
     and effect.
+    (a) Severability shall not apply to material provisions that define 
+        the core license grant or restrictions.
 
 9.2 JURISDICTION & GOVERNING LAW: This Agreement is governed by the laws 
     of the Republic of the Philippines, without regard to its conflict of 
     law provisions. Any legal disputes, claims, or proceedings arising from 
     this License shall be subject to the exclusive jurisdiction of the 
     appropriate courts of the Republic of the Philippines.
+    (a) Licensor retains the right to seek equitable relief in any court 
+        of competent jurisdiction.
 
 9.3 DISPUTE RESOLUTION: Before initiating formal legal proceedings, the 
     parties agree to attempt good-faith resolution through negotiation. 
     If negotiation fails, disputes may be escalated to mediation or 
     arbitration as mutually agreed.
+    (a) Initial negotiation period: 30 days from notice of dispute.
+    (b) Mediation costs shall be equally shared unless otherwise agreed.
+
+9.4 ASSIGNMENT & BINDING: This License binds and benefits the successors, 
+    executors, and permitted assigns of both Licensor and Licensee. Licensee 
+    may not assign this License without written consent from Licensor.
 
 ---
 
 ### ARTICLE X: SPECIAL USE CASES AND COMMERCIAL LICENSING
 
 10.1 COMMERCIAL LICENSING TIERS:
-     (a) TIER-1 WAIVER: Permits commercial use with profit-sharing agreement;
+     (a) TIER-1 WAIVER: Permits commercial use with profit-sharing agreement 
+         (typically 10-20% of net revenue);
      (b) TIER-2 WAIVER: Permits high-volume commercial use with fixed 
-         licensing fee;
+         licensing fee (typically $500-$5,000 depending on scope);
      (c) TIER-3 WAIVER: Permits AI/ML training and derivative commercial 
          redistribution with negotiated terms.
 
@@ -227,6 +316,8 @@ license to exercise the following rights:
      (b) Provide comprehensive information about intended use, scope, 
          and commercial terms;
      (c) Await written approval from Licensor before proceeding.
+     (d) Provide supporting documentation of business model, projected revenue, 
+         and distribution channels.
 
 10.3 CONTACT & COMMUNICATION: For inquiries not covered by this document, 
      special use cases, high-volume commercial inquiries, or waiver 
@@ -234,6 +325,10 @@ license to exercise the following rights:
      (a) Official GitHub Issue Tracker (ERRORGITYT/Wavfiles);
      (b) @ERRORwhately YouTube channel or social media channels;
      (c) Direct email or communication methods specified in repository.
+
+10.4 ENTERPRISE LICENSING: Large organizations requiring bulk licensing or 
+     site-wide deployment rights should contact Licensor for customized 
+     Enterprise License Agreements with negotiated terms and volume discounts.
 
 ---
 
@@ -243,10 +338,18 @@ license to exercise the following rights:
      amend this License at any time. Changes become effective 30 days 
      after publication. Continued use of the Assets after this period 
      constitutes acceptance of the updated terms.
+     (a) Licensor shall provide prominent notice of material changes via 
+         GitHub repository announcements or direct communication.
 
 11.2 RETROACTIVITY: Material amendments that restrict rights shall not 
      apply retroactively to existing Deployments, provided the Licensee 
      was in compliance at the time of Deployment.
+     (a) However, restrictive amendments may apply to new Deployments or 
+         Derivative Works created after the amendment effective date.
+
+11.3 VERSION CONTROL: This License document shall maintain version numbering 
+     (e.g., v1.0, v1.1, v1.2). All changes shall be logged with effective 
+     dates for reference and compliance tracking.
 
 ---
 
@@ -255,14 +358,114 @@ license to exercise the following rights:
 12.1 Upon termination or expiration of this License for any reason, 
      Licensee's rights to use the Assets cease immediately. Licensee 
      remains liable for all uses occurring after termination.
+     (a) Existing Deployments may continue for a grace period of 60 days, 
+         during which Licensee must remove or replace all Assets.
 
 12.2 Licensor retains all rights to pursue legal action for breaches 
      discovered after termination.
+     (a) Limitations period for legal claims: Five (5) years from date of 
+         breach discovery or 10 years from date of violation, whichever 
+         is longer.
+
+12.3 DATA DELETION: Upon termination, Licensee shall provide written 
+     certification of Asset deletion within 30 days. False certification 
+     constitutes additional material breach.
+
+---
+
+### ARTICLE XIII: INTELLECTUAL PROPERTY PROTECTION AND ENFORCEMENT
+
+13.1 IP OWNERSHIP: Licensor retains all intellectual property rights, 
+     including copyrights, trademarks, trade secrets, and any other proprietary 
+     interests in the Assets.
+     (a) No transfer of IP ownership occurs through this License.
+     (b) Licensee acquires only limited usage rights as explicitly stated herein.
+
+13.2 INFRINGEMENT PROTECTION: Licensor shall take reasonable measures to 
+     protect the Assets from unauthorized use, infringement, or counterfeiting.
+     (a) Licensor reserves the right to send DMCA takedown notices or pursue 
+         legal action against unauthorized distributors.
+
+13.3 INDEMNIFICATION: Licensee shall indemnify, defend, and hold harmless 
+     Licensor from any third-party claims, damages, or legal costs arising 
+     from Licensee's use, modification, or distribution of the Assets.
+     (a) This includes claims of infringement, misuse, or breach of third-party 
+         rights.
+
+---
+
+### ARTICLE XIV: DATA PRIVACY, SECURITY, AND COMPLIANCE
+
+14.1 GDPR COMPLIANCE: Licensee shall comply with all applicable data protection 
+     regulations, including the General Data Protection Regulation (GDPR), 
+     and any equivalent privacy laws in relevant jurisdictions.
+     (a) If Licensee collects personal data in conjunction with Asset use, 
+         proper consent and data handling procedures must be implemented.
+
+14.2 SECURITY STANDARDS: Licensee agrees to maintain industry-standard 
+     security measures to prevent unauthorized access, modification, or 
+     distribution of the Assets.
+     (a) Minimum standards: encryption for stored and transmitted data, 
+         access controls, and regular security assessments.
+
+14.3 BREACH NOTIFICATION: In the event of unauthorized access or distribution 
+     of Assets discovered by Licensee, Licensor must be notified within 
+     24 hours of discovery.
+     (a) Licensee shall cooperate fully with Licensor in investigation and 
+         remediation efforts.
+
+14.4 REGULATORY REPORTING: Licensor may require documentation of compliance 
+     with applicable regulatory requirements and may report findings to 
+     relevant authorities if necessary.
+
+---
+
+### ARTICLE XV: PERFORMANCE STANDARDS, SERVICE LEVELS, AND SUPPORT
+
+15.1 TECHNICAL SUPPORT: While Licensor does not guarantee technical support, 
+     reasonable efforts will be made to address reported issues or compatibility 
+     problems with the Assets.
+     (a) Support requests should be submitted via GitHub Issues with detailed 
+         information about the problem and reproduction steps.
+
+15.2 ASSET QUALITY STANDARDS: All Assets provided are verified to meet 
+     minimum quality standards:
+     (a) Audio Files: 16-bit or higher resolution, 44.1kHz or higher sample rate
+     (b) Metadata: Accurate tagging, proper formatting, and no corruption
+     (c) Documentation: Clear licensing terms and usage guidelines
+
+15.3 VERSIONING AND UPDATES: Licensor may release updated or improved versions 
+     of Assets. Licensee is responsible for downloading and integrating updates.
+     (a) Licensor does not guarantee backward compatibility with previous 
+         Asset versions.
+
+15.4 BUG REPORTING: Licensee may report technical issues or suspected bugs 
+     via GitHub Issues. Reported bugs shall be reviewed and addressed at 
+     Licensor's discretion.
+     (a) Critical security issues should be reported privately to Licensor 
+         rather than via public channels.
+
+---
+
+### ARTICLE XVI: MISCELLANEOUS PROVISIONS
+
+16.1 ENTIRE AGREEMENT: This License constitutes the entire agreement between 
+     the parties regarding the use of the Assets and supersedes all prior 
+     negotiations, understandings, and agreements.
+
+16.2 WAIVER: Failure by Licensor to enforce any provision of this License 
+     shall not constitute a waiver of that provision or any other provision.
+
+16.3 HEADINGS: Article and section headings are for reference only and do 
+     not affect the interpretation of this License.
+
+16.4 LANGUAGE: This License is provided in English. Any translations are 
+     provided for convenience only; the English version shall be authoritative.
 
 ---
 
 --------------------------------------------------------------------------------
-                     DOCUMENT VERSION: 1.1 - MAY 12, 2026
-            LAST UPDATED: 2026-05-12 | PREPARED BY ERRORWHATELY LEGAL FRAMEWORK
+                      DOCUMENT VERSION: 1.2 - MAY 15, 2026
+             LAST UPDATED: 2026-05-15 | PREPARED BY ERRORWHATELY LEGAL FRAMEWORK
                         CONTACT: ERRORGITYT ON GITHUB
 --------------------------------------------------------------------------------
